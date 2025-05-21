@@ -1,3 +1,4 @@
+<img width="1728" alt="Screenshot 2025-05-20 at 7 19 42 AM" src="https://github.com/user-attachments/assets/95934eea-b6f2-4ba2-a080-4c2ad286c434" />
 # Nmap Stealth Scan Analysis – Network Traffic Detection with Wireshark
 
 This project simulates attacker reconnaissance behavior using an Nmap TCP SYN scan and captures network traffic using Wireshark. The goal is to detect pre-connection activity and analyze the stealth scan behavior at the packet level in a 3-VM lab setup.
@@ -40,8 +41,8 @@ This project simulates attacker reconnaissance behavior using an Nmap TCP SYN sc
 | Description | Screenshot |
 |------------|------------|
 | 1️⃣ Kali terminal running the Nmap scan | ![Image](https://github.com/user-attachments/assets/84856b75-90dd-4555-838e-0010d0ec87e2) |
-| 2️⃣ SYN packet from Nmap in Wireshark | ![SYN Packet](images/syn-packet-analysis.png) |
-| 3️⃣ Full capture of DNS, ARP, MDNS traffic | ![Wireshark Full](images/wireshark-full-packetview.png) |
+| 2️⃣ SYN packet from Nmap in Wireshark | ![Image](https://github.com/user-attachments/assets/cde2aa6d-ea3a-4e3e-8fd0-6de92e94d258) |
+)| 3️⃣ Full capture of DNS, ARP, MDNS traffic | ![Wireshark Full](images/wireshark-full-packetview.png) |
 
 ---
 
