@@ -39,7 +39,7 @@ This project simulates attacker reconnaissance behavior using an Nmap TCP SYN sc
 
 | Description | Screenshot |
 |------------|------------|
-| 1️⃣ Kali terminal running the Nmap scan | ![Nmap Scan](images/nmap-scan-kali-terminal.png) |
+| 1️⃣ Kali terminal running the Nmap scan | ![Image](https://github.com/user-attachments/assets/84856b75-90dd-4555-838e-0010d0ec87e2) |
 | 2️⃣ SYN packet from Nmap in Wireshark | ![SYN Packet](images/syn-packet-analysis.png) |
 | 3️⃣ Full capture of DNS, ARP, MDNS traffic | ![Wireshark Full](images/wireshark-full-packetview.png) |
 
