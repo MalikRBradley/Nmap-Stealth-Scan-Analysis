@@ -1,4 +1,3 @@
-<img width="1728" alt="Screenshot 2025-05-20 at 7 19 42 AM" src="https://github.com/user-attachments/assets/95934eea-b6f2-4ba2-a080-4c2ad286c434" />
 # Nmap Stealth Scan Analysis – Network Traffic Detection with Wireshark
 
 This project simulates attacker reconnaissance behavior using an Nmap TCP SYN scan and captures network traffic using Wireshark. The goal is to detect pre-connection activity and analyze the stealth scan behavior at the packet level in a 3-VM lab setup.
